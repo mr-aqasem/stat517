@@ -1,0 +1,4 @@
+import pandas as pd # conventional alias
+
+salary = pd.read_csv("http://www.webpages.uidaho.edu/~stevel/Datasets/salary_uk.csv")
+salary
